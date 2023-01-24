@@ -1,1 +1,7 @@
-1. Änderung von Branch "Ismail"
+
+1. Befehle:
+git add
+git merge
+git banch 
+git checkout
+
