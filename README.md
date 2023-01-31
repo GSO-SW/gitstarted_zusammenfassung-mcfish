@@ -1,12 +1,9 @@
 
-2. Änderung von "Ibrahim"
-3. fabian hdf
+ Änderung von Branch "Ismail" :
 
-
-1. Befehle:
-git add
-git merge
-git banch 
-git checkout
-
+Git init – Repository initialisieren
+Git status – aktueller status
+Git add – eine Datei zum staging area hinzufügen
+Git commit -m – Die Staging Area wird Repo überführt und mit eine Nachricht gespeichert
+Git log – Historie einsehen
 
