@@ -1,1 +1,11 @@
-2. Änderung von "Ismail" - nicht gemerged
+
+
+
+1. Befehle:
+git add
+git merge
+git banch 
+git checkout
+
+
+
