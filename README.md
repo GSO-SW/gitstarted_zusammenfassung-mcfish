@@ -1,6 +1,5 @@
 Git init – Repository initialisieren 
 
-Git status – aktueller status 
 
 Git add – eine Datei zum staging area hinzufügen 
 
